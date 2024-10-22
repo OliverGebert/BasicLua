@@ -8,4 +8,5 @@ local function print_table(table)
     end
 end
 
+print ("the table looks as follows")
 print_table(tab)
